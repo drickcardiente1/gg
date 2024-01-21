@@ -6,7 +6,7 @@ import Profile from "./sections/Profile";
 import Footer from "./sections/Footer";
 import routes from "routes";
 import bgImage from "assets/images/city-profile.jpg";
-
+// main
 export default function Page() {
     return (
         <>

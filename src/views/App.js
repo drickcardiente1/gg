@@ -6,7 +6,6 @@ import Page from "./Page";
 
 
 
-
 function App() {
   return (
     <ThemeProvider theme={theme}>
